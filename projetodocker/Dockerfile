@@ -1,0 +1,1 @@
+FROM proflourenco/nginx:turma1
